@@ -2,11 +2,6 @@
 ################ Bi1121c: Visualization in R ###################################
 ################################################################################
 
-# Install the libraries we will need today:
-install.packages('ggplot2')
-install.packages('plotly') 
-install.packages('palmerpenguins')
-
 # Import the libraries
 library(ggplot2)
 library(palmerpenguins)
